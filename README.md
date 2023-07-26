@@ -1,4 +1,4 @@
-# LeetCode
+### LeetCode
 Starting out a new repo for my leetcode solutions as I go about with my daily practice and preparation for jobs. I will be using this repo to track my progress and also to keep a track of my solutions.
 
 Python3 solutions
@@ -14,8 +14,8 @@ Python3 solutions
 | Search Insert Position  | Easy  |
 | Plus One  | Easy  |
 | Sqrt(x)  | Easy  |
-| Add Two Numbers  | Easy  |
-| Divide Two Integers  | Easy  |
-| Group Anagrams  | Easy  |
-| Binary Tree Zigzag Level Order Traversal  | Easy  |
-| Top K Frequent Elements  | Easy  |
+| Add Two Numbers  | Medium  |
+| Divide Two Integers  | Medium  |
+| Group Anagrams  | Medium  |
+| Binary Tree Zigzag Level Order Traversal  | Medium  |
+| Top K Frequent Elements  | Medium  |

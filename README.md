@@ -24,3 +24,18 @@ Python3 solutions
 | Valid Anagram  | Easy  |
 | Valid Palindrome  | Easy  |
 | Two Sum II - Input Array Sorted  | Medium  |
+| 3 Sum  | Medium  |
+
+SQL solutions
+| Problem  | Difficulty |
+| ------------- | ------------- |
+| Recyclable and Low Fat Prodcucts  | Easy  |
+| Find Customer Referee | Easy  |
+| Big Countries | Easy  |
+| Articles Views I | Easy  |
+| Invalid Tweets | Easy  |
+| Replace Employee ID With The Unique Identifier | Easy  |
+| Product Sales Analysis I | Easy  |
+| Customer who visited many times but did not make a transaction | Easy  |
+| Employee Bonus | Easy  |
+

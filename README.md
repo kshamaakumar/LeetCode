@@ -19,3 +19,8 @@ Python3 solutions
 | Group Anagrams  | Medium  |
 | Binary Tree Zigzag Level Order Traversal  | Medium  |
 | Top K Frequent Elements  | Medium  |
+| Binary Search | Easy  |
+| Contains Duplicate  | Easy  |
+| Valid Anagram  | Easy  |
+| Valid Palindrome  | Easy  |
+| Two Sum II - Input Array Sorted  | Medium  |

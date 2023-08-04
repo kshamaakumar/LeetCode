@@ -25,6 +25,9 @@ Python3 solutions
 | Valid Palindrome  | Easy  |
 | Two Sum II - Input Array Sorted  | Medium  |
 | 3 Sum  | Medium  |
+| Container With Most Water  | Medium  |
+| Reverse LinkedList  | Easy  |
+| Min Stack  | Medium  |
 
 SQL solutions
 | Problem  | Difficulty |

@@ -28,6 +28,7 @@ Python3 solutions
 | Container With Most Water  | Medium  |
 | Reverse LinkedList  | Easy  |
 | Min Stack  | Medium  |
+| Generate Parenthesis  | Medium  |
 
 SQL solutions
 | Problem  | Difficulty |
@@ -41,4 +42,5 @@ SQL solutions
 | Product Sales Analysis I | Easy  |
 | Customer who visited many times but did not make a transaction | Easy  |
 | Employee Bonus | Easy  |
+| Rising Temperature | Easy  |
 

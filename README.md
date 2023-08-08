@@ -29,6 +29,8 @@ Python3 solutions
 | Reverse LinkedList  | Easy  |
 | Min Stack  | Medium  |
 | Generate Parenthesis  | Medium  |
+| Search a 2D matrix  | Medium  |
+| Koko Eating Bananas  | Medium  |
 
 SQL solutions
 | Problem  | Difficulty |

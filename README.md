@@ -31,6 +31,7 @@ Python3 solutions
 | Generate Parenthesis  | Medium  |
 | Search a 2D matrix  | Medium  |
 | Koko Eating Bananas  | Medium  |
+| Linked List Cycle  | Easy  |
 
 SQL solutions
 | Problem  | Difficulty |

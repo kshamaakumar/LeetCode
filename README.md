@@ -32,6 +32,8 @@ Python3 solutions
 | Search a 2D matrix  | Medium  |
 | Koko Eating Bananas  | Medium  |
 | Linked List Cycle  | Easy  |
+| Find Minimum is rotated sorted array  | Medium  |
+| Longest Substring Without Repeating Characters  | Medium  |
 
 SQL solutions
 | Problem  | Difficulty |

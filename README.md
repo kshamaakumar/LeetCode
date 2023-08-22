@@ -49,3 +49,9 @@ SQL solutions
 | Employee Bonus | Easy  |
 | Rising Temperature | Easy  |
 
+Pandas solutions
+| Problem  | Difficulty |
+| ------------- | ------------- |
+| Recyclable and Low Fat Prodcucts  | Easy  |
+| Customers Who Never Order | Easy  |
+| Big Countries | Easy  |

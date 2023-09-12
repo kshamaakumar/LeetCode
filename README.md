@@ -48,6 +48,11 @@ SQL solutions
 | Customer who visited many times but did not make a transaction | Easy  |
 | Employee Bonus | Easy  |
 | Rising Temperature | Easy  |
+| Not Boring Movies | Easy  |
+| Average Selling Price | Easy  |
+| Project Employees I | Easy  |
+| Percentage of Users Attended a Contest | Easy  |
+| Queries Quality and Percentage | Easy  |
 
 Pandas solutions
 | Problem  | Difficulty |

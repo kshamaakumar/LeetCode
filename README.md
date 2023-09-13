@@ -53,6 +53,9 @@ SQL solutions
 | Project Employees I | Easy  |
 | Percentage of Users Attended a Contest | Easy  |
 | Queries Quality and Percentage | Easy  |
+| Managers with at least 5 Direct Reports | Medium  |
+| Confirmation Rate | Medium  |
+| Monthly Transactions I | Medium  |
 
 Pandas solutions
 | Problem  | Difficulty |

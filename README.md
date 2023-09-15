@@ -34,6 +34,7 @@ Python3 solutions
 | Linked List Cycle  | Easy  |
 | Find Minimum is rotated sorted array  | Medium  |
 | Longest Substring Without Repeating Characters  | Medium  |
+| Reorder List  | Medium  |
 
 SQL solutions
 | Problem  | Difficulty |
@@ -56,6 +57,9 @@ SQL solutions
 | Managers with at least 5 Direct Reports | Medium  |
 | Confirmation Rate | Medium  |
 | Monthly Transactions I | Medium  |
+| Number of Unique Subjects Taught by Each Teacher | Easy  |
+| User Activity for the Past 30 Days 1 | Easy  |
+| Classes More Than 5 Students | Easy  |
 
 Pandas solutions
 | Problem  | Difficulty |

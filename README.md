@@ -60,6 +60,8 @@ SQL solutions
 | Number of Unique Subjects Taught by Each Teacher | Easy  |
 | User Activity for the Past 30 Days 1 | Easy  |
 | Classes More Than 5 Students | Easy  |
+| Find Followers Count | Easy  |
+| Biggest Single Number | Easy  |
 
 Pandas solutions
 | Problem  | Difficulty |

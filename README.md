@@ -35,6 +35,7 @@ Python3 solutions
 | Find Minimum is rotated sorted array  | Medium  |
 | Longest Substring Without Repeating Characters  | Medium  |
 | Reorder List  | Medium  |
+| Remove Nth Node From End of List  | Medium  |
 
 SQL solutions
 | Problem  | Difficulty |

@@ -36,6 +36,7 @@ Python3 solutions
 | Longest Substring Without Repeating Characters  | Medium  |
 | Reorder List  | Medium  |
 | Remove Nth Node From End of List  | Medium  |
+|Invert Binary Tree  | Easy  |
 
 SQL solutions
 | Problem  | Difficulty |

@@ -77,3 +77,9 @@ Leetcode 75
 | Merge Strings Alternately | Easy |
 | Greatest Common Divisor of Strings | Easy |
 | Move Zeroes | Easy |
+| Article Views I | Easy |
+| Invalid Tweets | Easy |
+| Calculate Special Bonus | Easy |
+| Fix Names in a Table | Easy |
+| Find Users With Valid E-Mails | Easy |
+| Patients With a Condition | Easy |

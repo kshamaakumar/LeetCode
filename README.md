@@ -71,6 +71,9 @@ Pandas solutions
 | Recyclable and Low Fat Prodcucts  | Easy  |
 | Customers Who Never Order | Easy  |
 | Big Countries | Easy  |
+|Count Occurences in Text | Medium  |
+| Nth Highest Salary | Medium  |
+| Second Highest Salary | Medium  |
 
 Leetcode 75
 | Problem  | Difficulty |

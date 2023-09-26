@@ -64,6 +64,8 @@ SQL solutions
 | Classes More Than 5 Students | Easy  |
 | Find Followers Count | Easy  |
 | Biggest Single Number | Easy  |
+| Immediate Food Delivery II | Medium  |
+| Game Play Analysis IV | Medium  |
 
 Pandas solutions
 | Problem  | Difficulty |

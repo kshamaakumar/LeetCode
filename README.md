@@ -88,3 +88,5 @@ Leetcode 75
 | Fix Names in a Table | Easy |
 | Find Users With Valid E-Mails | Easy |
 | Patients With a Condition | Easy |
+| Find the Highest Altitude | Easy |
+| Find Pivot Index | Easy |

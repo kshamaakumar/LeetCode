@@ -90,3 +90,5 @@ Leetcode 75
 | Patients With a Condition | Easy |
 | Find the Highest Altitude | Easy |
 | Find Pivot Index | Easy |
+| Find the difference of two arrays | Easy |
+| Unique Number of Occurences | Easy |

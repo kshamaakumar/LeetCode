@@ -76,6 +76,9 @@ Pandas solutions
 |Count Occurences in Text | Medium  |
 | Nth Highest Salary | Medium  |
 | Second Highest Salary | Medium  |
+| Delete Duplicate Emails | Easy  |
+| Rearrange Products Table | Easy  |
+| Rank Scores | Medium  |
 
 Leetcode 75
 | Problem  | Difficulty |

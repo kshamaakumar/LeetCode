@@ -66,6 +66,8 @@ SQL solutions
 | Biggest Single Number | Easy  |
 | Immediate Food Delivery II | Medium  |
 | Game Play Analysis IV | Medium  |
+| Customers who bought all products | Medium  |
+| Product Sales Analysis III | Medium  |
 
 Pandas solutions
 | Problem  | Difficulty |

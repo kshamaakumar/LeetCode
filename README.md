@@ -68,6 +68,9 @@ SQL solutions
 | Game Play Analysis IV | Medium  |
 | Customers who bought all products | Medium  |
 | Product Sales Analysis III | Medium  |
+| The Number of Employees Which Report to Each Employee | Easy  |
+| Primary Department for Each Employee | Easy  |
+| Triangle Judgement | Easy  |
 
 Pandas solutions
 | Problem  | Difficulty |

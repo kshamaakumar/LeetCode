@@ -72,19 +72,6 @@ SQL solutions
 | Primary Department for Each Employee | Easy  |
 | Triangle Judgement | Easy  |
 
-Pandas solutions
-| Problem  | Difficulty |
-| ------------- | ------------- |
-| Recyclable and Low Fat Prodcucts  | Easy  |
-| Customers Who Never Order | Easy  |
-| Big Countries | Easy  |
-|Count Occurences in Text | Medium  |
-| Nth Highest Salary | Medium  |
-| Second Highest Salary | Medium  |
-| Delete Duplicate Emails | Easy  |
-| Rearrange Products Table | Easy  |
-| Rank Scores | Medium  |
-
 Leetcode 75
 | Problem  | Difficulty |
 | Merge Strings Alternately | Easy |

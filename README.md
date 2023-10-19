@@ -18,6 +18,7 @@ Introduction to Pandas
 | Reshape Data: Melt |
 | Method Chaining |
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={kshamaa1994})
 
 30 Days Of Pandas
 | Problem  | Difficulty |

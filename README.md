@@ -87,3 +87,5 @@ Leetcode 75
 | Find Pivot Index | Easy |
 | Find the difference of two arrays | Easy |
 | Unique Number of Occurences | Easy |
+| Determine if Two Strings Are Close | Medium |
+| Equal Row and Column Pairs | Medium |

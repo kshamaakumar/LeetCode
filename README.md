@@ -74,6 +74,7 @@ SQL solutions
 
 Leetcode 75
 | Problem  | Difficulty |
+| ------------- | ------------- |
 | Merge Strings Alternately | Easy |
 | Greatest Common Divisor of Strings | Easy |
 | Move Zeroes | Easy |

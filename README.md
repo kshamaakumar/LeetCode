@@ -71,6 +71,8 @@ SQL solutions
 | The Number of Employees Which Report to Each Employee | Easy  |
 | Primary Department for Each Employee | Easy  |
 | Triangle Judgement | Easy  |
+| Employees Whose Manager Left the Company | Easy  |
+| List the Products Ordered in a Period | Easy  |
 
 Leetcode 75
 | Problem  | Difficulty |

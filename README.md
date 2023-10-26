@@ -73,6 +73,8 @@ SQL solutions
 | Triangle Judgement | Easy  |
 | Employees Whose Manager Left the Company | Easy  |
 | List the Products Ordered in a Period | Easy  |
+| Movie Rating | Medium  |
+| Restaurant Growth | Medium  |
 
 Leetcode 75
 | Problem  | Difficulty |

@@ -94,3 +94,4 @@ Leetcode 75
 | Unique Number of Occurences | Easy |
 | Determine if Two Strings Are Close | Medium |
 | Equal Row and Column Pairs | Medium |
+| Removing Stars from a String | Medium |

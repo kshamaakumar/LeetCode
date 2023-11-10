@@ -75,6 +75,8 @@ SQL solutions
 | List the Products Ordered in a Period | Easy  |
 | Movie Rating | Medium  |
 | Restaurant Growth | Medium  |
+| Consecutive Numbers | Medium  |
+| Product Price at a Given Date | Medium  |
 
 Leetcode 75
 | Problem  | Difficulty |
